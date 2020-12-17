@@ -1,6 +1,6 @@
 FROM microsoft/windowsservercore
 
-ARG SQL_COLLATION=SQL_Latin1_General_CP1_CI_AS
+ARG SQL_COLLATION=Danish_Norwegian_CI_AS
 
 LABEL maintainer "Mats Taraldsvik"
 
